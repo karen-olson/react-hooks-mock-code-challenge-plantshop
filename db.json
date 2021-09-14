@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Coffee",
+      "image": "https://imgr.search.brave.com/g8KYziwWVtsOKul1sUZWKlDJLbo4Qejy4JU_BH23pBw/fit/1200/1200/ce/1/aHR0cHM6Ly93d3cu/Z2FyZGVuaW5na25v/d2hvdy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjAvMTEv/eW91bmctY29mZmVl/LXRyZWUuanBn",
+      "price": "13.99",
+      "id": 9
+    },
+    {
+      "name": "Anthurium",
+      "image": "https://imgr.search.brave.com/l6PhVxURY1ZAAtBgqVLKiCpW0BTj-5QxPewjNBeUw74/fit/979/1200/ce/1/aHR0cHM6Ly9nYXJk/ZW4ub3JnL3BpY3Mv/MjAxNS0xMC0xNC9z/a3lsYXJrLzMzMGI2/ZS5qcGc",
+      "price": "10.99",
+      "id": 10
     }
   ]
 }
